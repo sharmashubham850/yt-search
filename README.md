@@ -1,5 +1,5 @@
 # Youtube Search App
-A React app to search and watch Youtube videos.
+### A React app to search and watch Youtube videos.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
