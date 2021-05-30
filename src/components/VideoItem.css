@@ -1,0 +1,13 @@
+.video-item {
+  display: flex !important;
+  align-items: center !important;
+  cursor: pointer;
+}
+
+.video-item:hover {
+  background-color: #eee;
+}
+
+.video-item img {
+  width: 180px;
+}
