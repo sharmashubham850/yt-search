@@ -14,6 +14,9 @@ const VideoDetail = ({ video }) => {
           width="200"
           height="250"
           frameBorder="0"
+          allowFullScreen
+          webkitallowfullscreen
+          mzallowfullscreen
         />
       </div>
       <div className="ui segment">
