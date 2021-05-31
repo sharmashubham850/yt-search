@@ -1,0 +1,16 @@
+.ui.menu {
+  background: linear-gradient(
+    90deg,
+    hsla(0, 70%, 51%, 1) 0%,
+    hsla(2, 78%, 62%, 1) 100%
+  );
+
+  border: none;
+  border-radius: 0;
+}
+
+a.header.item {
+  color: #fff !important;
+  font-size: 25px;
+  padding-left: calc(28px - 1vw) !important;
+}
